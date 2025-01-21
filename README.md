@@ -84,5 +84,9 @@ A live demo of this project is available using Streamlit, where you can input ho
 streamlit run streamlit_app.py
 ```
 
+
+![Screenshot 2025-01-20 112308](https://github.com/user-attachments/assets/167e3f4b-126a-4a56-b358-876aa7085563)
+
+
 ## Production Deployment
 While this project demonstrates local deployment using MLflow, it can be adapted for production environments using other ZenML integrations such as the Seldon deployer for Kubernetes deployment.
